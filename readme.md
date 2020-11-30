@@ -1,4 +1,5 @@
 ## DOM Array Methods
+[DEMO LINK](https://mishtal-andrii.github.io/dom-array-methods/)
 
 Project to teach high order array methods and DOM manipulation
 
